@@ -34,10 +34,11 @@ cd component3
 ## 2. Install Dependencies
 
 ### component3:
-
+```bash
 cd component3
 npm install
 npm install axios
 npm install react-router-dom
 npm run dev
+```
 
