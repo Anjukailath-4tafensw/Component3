@@ -33,7 +33,19 @@ cd component3
 
 ## 2. Install Dependencies
 
-### component3:
+### Run component2 for backend:
+
+git clone https://github.com/Anjukailath-4tafensw/Component2.git
+cd component2
+
+```bash
+cd Component2
+npm install
+npm install redis
+node index.js
+```
+
+### Run component3 for frontend:
 ```bash
 cd component3
 npm install
